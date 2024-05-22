@@ -1,0 +1,7 @@
+langchain
+langchain_community
+pyPDF2
+faiss-cpu
+tiktoken
+unstructured
+chromadb
